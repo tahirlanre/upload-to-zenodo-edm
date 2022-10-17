@@ -1,0 +1,17 @@
+{
+    "community_identifier" : [{"identifier": "edm-2022"}],
+    "isbn" : "978-1-7336736-3-1",
+    "contributors" : [
+        {
+            "name": "Mitrovic, Antonija",
+            "affiliation": "University of Canterbury, NZ",
+            "type": "Editor"
+        },
+        {
+            "name": "Bosch, Nigel",
+            "affiliation": "University of Illinois Urbana–Champaign, US",
+            "type": "Editor"
+        }
+    ],
+    "publisher" : "International Educational Data Mining Society"
+}
